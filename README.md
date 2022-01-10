@@ -1,0 +1,2 @@
+# mernisValidation
+Mernis doğrulması
